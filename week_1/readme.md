@@ -26,11 +26,11 @@ for i in range(0,len(name)):                #for executing all the characters of
 
 import time
 
-song =["Main tera, Main tera", "Main tera, Main tera", "Main tera, Main tera"]        #Declare a list (an array) of song lyrics
+song =["Main tera, Main tera", "Main tera, Main tera", "Main tera, Main tera"]              #Declare a list (an array) of song lyrics
 
 def lyrics(song):                                                      #Declare function to display the lyrics after one second
 
-  for i in song:                    # for display the lyrics in one line 
+  for i in song:                                                       # for display the lyrics in one line 
   
     time.sleep(1)                   #for display the lyrics after 1 second
     
