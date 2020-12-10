@@ -5,11 +5,11 @@
 
 **Code:**
 
-name="Khubaib"                          #declare a variable of name
+name="Khubaib"                              #Declare a variable of name
 
-space=""                                #declare a variable for giving whitespace 
+space=""                                    #Declare a variable for giving whitespace 
 
-for i in range(0,len(name)):            #for executing all the characters of giving string
+for i in range(0,len(name)):                #for executing all the characters of giving string
 
     print(space+name[i])        #Display the character with space in diagonally
     
@@ -26,15 +26,15 @@ for i in range(0,len(name)):            #for executing all the characters of giv
 
 import time
 
-song =["Main tera, Main tera", "Main tera, Main tera", "Main tera, Main tera"] 
+song =["Main tera, Main tera", "Main tera, Main tera", "Main tera, Main tera"]        #Declare a list (an array) of song lyrics
 
-def lyrics(song):
+def lyrics(song):                                                      #Declare function to display the lyrics after one second
 
-  for i in song:
+  for i in song:                    # for display the lyrics in one line 
   
-    time.sleep(1)
+    time.sleep(1)                   #for display the lyrics after 1 second
     
-    print(i)
+    print(i)                        #for display one lyrics at each second.
     
 **OUTPUT:**
 
