@@ -5,15 +5,15 @@
 
 **Code:**
 
-name="Khubaib"                  #declare a variable of name
+name="Khubaib"                          #declare a variable of name
 
-space=""                        #declare a variable for giving whitespace 
+space=""                                #declare a variable for giving whitespace 
 
-for i in range(0,len(name)):    #for executing all the characters of giving string
+for i in range(0,len(name)):            #for executing all the characters of giving string
 
     print(space+name[i])        #Display the character with space in diagonally
     
-    space=space+" "             #for increasing a space for printing a whitespace diagonally after executing the previous                                                character
+    space=space+" "             #for increasing a space for printing a whitespace diagonally after executing the previous character          
 
 
 **OUTPUT:**
