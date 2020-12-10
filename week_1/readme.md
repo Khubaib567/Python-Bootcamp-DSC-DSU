@@ -3,6 +3,7 @@
 
 **Question no.1:**
 
+**Code:**
 
 name="Khubaib"
 
@@ -15,13 +16,13 @@ for i in range(0,len(name)):
     space=space+" "
 
 
-OUTPUT:
+**OUTPUT:**
 
 ![OUTPUT](https://user-images.githubusercontent.com/49817481/101786162-6df91f00-3b1f-11eb-9956-7ce7e943d1fe.png)
 
-Question no.3:
+**Question no.3:**
 
-Code:
+**Code:**
 
 import time
 
@@ -35,7 +36,7 @@ def lyrics(song):
     
     print(i)
     
-OUTPUT:
+**OUTPUT:**
 
 ![OUTPUT2](https://user-images.githubusercontent.com/49817481/101786924-52dadf00-3b20-11eb-8627-d4d6b0dbc19d.png)
 
