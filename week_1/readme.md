@@ -1,9 +1,8 @@
 # DSC-DSU | Python Bootcamp 2020 | Week 1
-Assingmnet no.1:
+# Assignment no. 1:
 
-Question no.1:
+**Question no.1:**
 
-Code:
 
 name="Khubaib"
 
