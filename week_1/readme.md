@@ -38,6 +38,8 @@ def lyrics(song):
     
 OUTPUT:
 
+![OUTPUT2](https://user-images.githubusercontent.com/49817481/101786924-52dadf00-3b20-11eb-8627-d4d6b0dbc19d.png)
+
 
 
 
