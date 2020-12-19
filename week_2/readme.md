@@ -22,4 +22,5 @@ print(sorted(List, reverse=True))
 
 **Here is a Sample of List of Files in GUI:**
 
-![utilited](https://user-images.githubusercontent.com/49817481/102684382-d0c27880-41f9-11eb-8579-2f01c7fcca6e.png)
+![Untitled1](https://user-images.githubusercontent.com/49817481/102687677-8ef1fc00-4212-11eb-8336-3014f1789c90.png)
+
