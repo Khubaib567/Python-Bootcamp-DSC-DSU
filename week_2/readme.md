@@ -1,6 +1,7 @@
 # DSC-DSU | Python Bootcamp 2020 | Week 2
 
 **Question no.1:**
+
 import os
 
 user_input=input("Enter a folder path: ")
