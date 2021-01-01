@@ -13,8 +13,6 @@ for i in range(0,len(Name)):
     print(Space+Name[i])
     Space=Space+" "
    
-![Output1](https://user-images.githubusercontent.com/49817481/103445593-2ede6980-4c98-11eb-967d-aab9784dedf9.png)
-
 import time
 song =["Main tera, Main tera", "Main tera, Main tera", "Main tera, Main tera"] 
 def lyrics(song):
@@ -23,8 +21,6 @@ def lyrics(song):
     print(i)
 
 lyrics(song)
-
-![Output2](https://user-images.githubusercontent.com/49817481/103445577-dc04b200-4c97-11eb-92d8-d373009d4859.png)
 
 
 
